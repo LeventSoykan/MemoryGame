@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="gamePlayText">Matching %1$s !
+        Moves: %2$d"</string>
+</resources>
